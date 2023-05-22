@@ -1,23 +1,69 @@
-Student Allowance: HK$11,190 per month (30 calendar days; Daily rate: HK$373)
-Maximum Amount of Sponsorship: HK$33,570 (90 calendar days)
-The allowance covers the actual salary paid to the student intern(s) and their contributions to MPF (Mandatory Provident Fund).
-Employers may choose to pay a monthly honorarium on top of the allowance during the internship period.
-Employers are required to provide appropriate insurance coverage to student interns.
-Application process:
-Create a job portal account and provide necessary information such as BR Number, BR expiry date, and a copy of a valid BR certificate.
-Indicate "STEM" in front of the company name during registration.
-Post innovation and technology-related job advertisements with "STEM" mentioned in the Remarks section.
-Verification of job nature takes approximately 7 working days, and a confirmation email will be sent when all valid and sufficient information is provided.
-Verify the student intern's eligibility by providing their personal particulars before the internship commencement date. Verification process takes around 7 working days, and a confirmation email will be sent upon completion.
-Submit the signed employment contract via an online form before the internship commencement date.
-Reimbursement process:
-After the internship, submit the following documents via email to cpdc@cuhk.edu.hk within 1 month:
-Payslip of the student intern
-Acknowledgement Receipt of Allowance*
-Reply Form for Reimbursement Method*
-Evaluation Form
-Post-internship activities:
-Both employers and student interns are required to conduct performance appraisal.
-Complete an evaluation form within a month after the completion of the internship.
-Employers' version: https://cloud.itsc.cuhk.edu.hk/webform/view.php?id=13664758
-Student interns' version: https://cloud.itsc.cuhk.edu.hk/webform/view.php?id=13664756
+STEM Internship of Chinese University of Hong Kong
+
+Objectives
+Launched by Innovation and Technology Commission (ITC) since 2020
+To encourage STEM students to gain innovation and technology (I&T) related work experience during their studies
+To foster their interest in pursuing a career in I&T after graduation
+To enlarge the local I&T talent pool
+
+Eligibility of Student Interns:
+Interns must be full-time undergraduate and postgraduate students.
+Final year local students are eligible so long as the internship commences before the expiry of student status and subject to the latest CUSIS record.
+Students majoring at one of the STEM programmes listed in Appendix I;
+Local students who are defined as paying the local student tuition rate in accordance with the classification of the Education Bureau for the purpose of admission to post-secondary programme listed in Appendix II, or non-local students, capped at quota of 20% of all participants of the University.
+Non-local students can take up internships in Hong Kong only under the Scheme and are required to apply appropriate No Objection Letter from the Faculty/Department.
+Students are legally employable in Hong Kong.
+
+Appendix I: https://job.cpdc.osa.cuhk.edu.hk/sites/cu_joblink/files/work_experience_programme/STEM%20Internship%20Scheme/List%20of%20Eligible%20STEM%20Programmes_2023_CUHK.pdf
+Appendix II: https://job.cpdc.osa.cuhk.edu.hk/sites/cu_joblink/files/work_experience_programme/STEM%20Internship%20Scheme/Appendix%20II.pdf
+
+Internship Schedule:
+Local or non-local full-time placements with a duration of at least 4 consecutive weeks (28 calendar days) and a maximum of 90 calendar days will be supported. 
+The duration of an internship period is the number of calendar days in the contract period. 
+The start/end days must be working days for the intern. Public holiday, Saturday and Sunday will normally not be counted as working days.  
+Internship period should be arranged during the period mentioned below:
+ 
+Summer Intake: 2 May to 31 August 2023
+
+1st Term Intake: 4 September to 30 December 2023
+
+Winter Intake: To be advised
+
+2nd Term Intake: To be advised
+
+Financial Arrangement:
+1) Allowance for each student intern will be HK$ 11,190 per month (30 calendar days; Daily rate: HK$ 373). Maximum Amount of Sponsorship is HK$33,570, capped at three months (90 calendar days) in one academic year.
+The allowance should cover both the actual salary paid to the student intern(s) and, if any, the students’ contributions to MPF during the eligible internship period.
+Participating companies/organizations may pay a monthly honorarium during the internship period on top of the allowance under the Scheme.
+In accordance with the Hong Kong Law, all employers should provide appropriate insurance coverage to their staff.
+
+Application Procedures For Employee:
+1) Create job portal account(CU Job Link)
+Provide sufficient information such as BR Number, BR expiry date, a copy of a valid BR certificate on job portal.
+Put down “STEM” in front of your company name when you register
+Job portal: https://job.cpdc.osa.cuhk.edu.hk/en/employer/login
+The verification process of a new employer user account takes around 14 working days.
+
+2) Verification on the Job Nature
+Post the innovation and technology-related job advertisements with an indication of “STEM” in the Remarks section under Additional Information.
+The verification process takes around 7 working days. Confirmation email of job nature will be sent to you by email when all valid & sufficient information is provided.
+
+3) Verification on Students' Eligibility
+Participating employer is required to provide the candidates' information (listed below) through the online form at https://cloud.itsc.cuhk.edu.hk/webform/view.php?id=13663734
+Local Students: 1) Copy of a Student ID Card  2) Official approval on the suspension of study (for semester internship only)
+Non-local Students: 1) Copy of a Student ID Card  2) Official approval on the suspension of study (for semester internship only) 3) No Objection Letter 
+
+4) Submit the employment contract
+Provide the employment contract (signed by both parties) at https://cloud.itsc.cuhk.edu.hk/webform/view.php?id=13664548 on or before the internship commencement date. 
+
+Reimbursement Process:
+Employers pay the allowances to student interns first
+After the internship, you are required to submit the following documents within 1 month after the completion of the internship by email to cpdc@cuhk.edu.hk :
+1. Payslip of the student intern
+2. Acknowledgement Receipt of Allowance
+3. Reply Form for Reimbursement Method
+4. Evaluation Form (Both Employee and Students)
+Employers’ Evaluation Form: https://cloud.itsc.cuhk.edu.hk/webform/view.php?id=13664758
+Student interns’ Evaluation Form: https://cloud.itsc.cuhk.edu.hk/webform/view.php?id=13664756
+
+
